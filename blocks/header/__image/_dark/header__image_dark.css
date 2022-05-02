@@ -1,0 +1,4 @@
+.header__image_dark {
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}

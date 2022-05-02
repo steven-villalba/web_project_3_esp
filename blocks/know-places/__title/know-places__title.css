@@ -1,0 +1,11 @@
+.know-places__title {
+    font-size: 54px;
+    line-height: 58px;
+    text-align: center;
+    margin: 0;
+}
+@media screen and (max-width: 700px){
+    .know-places__title {
+        font-size: 40px;
+    }
+}

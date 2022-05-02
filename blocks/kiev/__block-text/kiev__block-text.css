@@ -1,0 +1,9 @@
+.kiev__block-text {
+    grid-column: 2/3;
+    grid-row:  2/4;
+}
+@media screen and (max-width: 700px){
+    .kiev__block-text {
+        order: 4;
+    }
+}

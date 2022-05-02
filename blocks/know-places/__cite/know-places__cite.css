@@ -1,0 +1,12 @@
+.know-places__cite {
+    font-size: 24px;
+    line-height: 34px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+@media screen and (max-width: 700px){
+    .know-places__cite {
+        font-size: 18px;
+    }
+}

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Inter;
+    src: url("/fuentes/InterDesktop/Inter-ExtraBold.woff2") format("woff2"),
+
+    url("/fuentes/InterDesktop/Inter-ExtraBold.woff") format("woff");
+}
+@font-face {
+    font-family: Inter;
+    src: url("/fuentes/InterDesktop/Inter-Regular.woff2") format("woff2"),
+
+    url("/fuentes/InterDesktop/Inter-Regular.woff") format("woff");
+}

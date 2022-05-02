@@ -1,0 +1,12 @@
+.visit__block {
+    height: 740px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 30;
+    transition: background-color .2s ease-in;
+}
+.visit__block:hover {
+    background-color: rgba(0,0,0, .3);
+}
