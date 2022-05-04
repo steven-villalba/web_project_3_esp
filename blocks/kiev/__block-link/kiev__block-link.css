@@ -3,4 +3,9 @@
     padding: 13px 20px;
     text-align: center;
     top: 20px;
+    border-radius: 3px;
+    transition: background-color .2s ease-in;
+}
+.kiev__block-link:hover {
+    background-color: rgb(0, 99, 210);
 }

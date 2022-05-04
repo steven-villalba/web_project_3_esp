@@ -1,0 +1,10 @@
+@media screen and (min-width: 700px){
+    .kiev__block-link_status_on {
+        display: none;
+    }
+}
+@media screen and (max-width: 700px){
+    .kiev__block-link_status_on {
+        display: block;
+    }
+}

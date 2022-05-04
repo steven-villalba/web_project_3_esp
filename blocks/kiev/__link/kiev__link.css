@@ -2,9 +2,6 @@
     font-size: 16px;
     text-decoration: none;
     color: rgb(255,255,255);
-    border-radius: 3px;
-    transition: background-color .2s ease-in;
-    
 }
 @media screen and (max-width: 700px){
     .kiev__link {
@@ -12,7 +9,4 @@
         font-size: 12px;
         flex-basis: 1px;
     }
-}
-.kiev__link:hover {
-    background-color: rgb(0, 99, 210);
 }
