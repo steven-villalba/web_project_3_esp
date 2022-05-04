@@ -7,11 +7,11 @@
   
 Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum. Lo hemos diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales.    
   
-**Tecnologías Usadas** 
+##Tecnologías Usadas
 
-# HTML
-# CSS
-# Metodología BEM
-# Diseño Flexible
+* HTML
+* CSS
+* Metodología BEM
+* Diseño Flexible
 
-* [Enlace al proyecto en Figma]() 
+* [Enlace al proyecto De patria a patria]() 
